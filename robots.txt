@@ -3,4 +3,4 @@ Disallow: /admin
 
 Allow: /sitemap.xml
 
-Sitemap:https://lol-beans.gitlab.io/sitemap.xml
+Sitemap:https://lol-beans-io.github.io/sitemap.xml
